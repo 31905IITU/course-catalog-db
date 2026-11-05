@@ -32,6 +32,5 @@ CREATE TABLE enrollments (
 );
 
 -- Index on the foreign key student_id.
--- PostgreSQL does not automatically create indexes on foreign keys.
 CREATE INDEX enrollments_student_id_idx
 ON enrollments (student_id);

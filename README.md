@@ -525,4 +525,4 @@ Overall, this lab provided practical experience with relational database design 
 - [x] Normalization bonus documented.
 - [x] Lost update and row locking bonus documented.
 - [x] SQL injection and prepared statements bonus documented.
-- [ ] GitHub repository submission.
+- [x] GitHub repository submission.
